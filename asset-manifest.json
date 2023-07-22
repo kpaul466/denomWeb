@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/denomWeb/static/css/main.bfc9780d.css",
+    "main.js": "/denomWeb/static/js/main.8afac324.js",
+    "static/js/498.8d526515.chunk.js": "/denomWeb/static/js/498.8d526515.chunk.js",
+    "static/js/703.a6d4b0a7.chunk.js": "/denomWeb/static/js/703.a6d4b0a7.chunk.js",
+    "static/js/524.f8a25101.chunk.js": "/denomWeb/static/js/524.f8a25101.chunk.js",
+    "static/js/787.fa5f2ad7.chunk.js": "/denomWeb/static/js/787.fa5f2ad7.chunk.js",
+    "index.html": "/denomWeb/index.html",
+    "main.bfc9780d.css.map": "/denomWeb/static/css/main.bfc9780d.css.map",
+    "main.8afac324.js.map": "/denomWeb/static/js/main.8afac324.js.map",
+    "498.8d526515.chunk.js.map": "/denomWeb/static/js/498.8d526515.chunk.js.map",
+    "703.a6d4b0a7.chunk.js.map": "/denomWeb/static/js/703.a6d4b0a7.chunk.js.map",
+    "524.f8a25101.chunk.js.map": "/denomWeb/static/js/524.f8a25101.chunk.js.map",
+    "787.fa5f2ad7.chunk.js.map": "/denomWeb/static/js/787.fa5f2ad7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc9780d.css",
+    "static/js/main.8afac324.js"
+  ]
+}
